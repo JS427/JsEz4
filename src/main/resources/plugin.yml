@@ -1,0 +1,8 @@
+name: JsEz4
+version: '${project.version}'
+main: me.js427.jsez4.JsEz4
+api-version: 1.19
+prefix: JsEz4
+load: STARTUP
+authors: [ JS427 ]
+description: Every thing needed for your server...
