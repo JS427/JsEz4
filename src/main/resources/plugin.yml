@@ -1,5 +1,5 @@
 name: JsEz4
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: me.js427.jsez4.JsEz4
 api-version: 1.19
 prefix: JsEz4
