@@ -1,4 +1,9 @@
 package me.js427.jsez4.listeners;
 
-public class JoinMessageListener {
+import org.bukkit.event.Listener;
+import org.bukkit.event.player.PlayerJoinEvent;
+
+public class JoinMessageListener implements Listener {
+    public void setJoinMessage(PlayerJoinEvent event) {
+    }
 }
