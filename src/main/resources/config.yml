@@ -1,0 +1,10 @@
+#--------------------#
+# JsEz4 Configuration #
+#--------------------#
+#---------------#
+# Chat Features #
+#---------------#
+chat:
+  join-leave-message:
+    custom-join-message: '&e[USERNAME] joined the lobby'
+    custom-leave-message: '&e[USERNAME] leaved the lobby'
